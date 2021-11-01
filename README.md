@@ -5,6 +5,13 @@
 
 This project helps you collect data from axie.zone about the top 100 players, and match their most used axies against the marketplace in realtime, matches that are found are then stored in Firebase Firestore. This repo contains only the GUI to display the data. Please follow the bot setup instructions below, or visit the [bot's repo here](https://github.com/mdichtler/axie-infinity-sniper-bot). 
 
+
+###  Example:
+
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/gz6usP4.png)](https://github.com/mdichtler/axie-infinity-sniper-gui)
+
+
+
 ## Installation
 
 ### Bot Video Tutorial
@@ -39,10 +46,6 @@ npm install
 ```node
 npm start
 ```
-
-####  Example:
-
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/gz6usP4.png)](https://github.com/mdichtler/axie-infinity-sniper-gui)
 
 
 
